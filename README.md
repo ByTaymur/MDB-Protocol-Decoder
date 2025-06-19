@@ -1,9 +1,7 @@
 # MDB Protocol Decoder v9
-dge/GitHub-ByTaymur-blue)](https://github.com/ByTaymur)
 
-[![GitHub](https://img.shields.io/ba![image](https://github.com/user-attachments/assets/1a724ec8-8745-4392-93c1-129e8f91c481)
-
-![{6542ED9F-907F-4B9A-926D-9C769CD784E9}](https://github.com/user-attachments/assets/22a23bdf-b255-4400-b75b-2aa334202353)
+![image](https://github.com/user-attachments/assets/1a724ec8-8745-4392-93c1-129e8f91c481)
+![image](https://github.com/user-attachments/assets/22a23bdf-b255-4400-b75b-2aa334202353)
 ![image](https://github.com/user-attachments/assets/b07159b1-9819-449b-b632-81263b228653)
 
 
