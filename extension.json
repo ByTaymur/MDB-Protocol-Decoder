@@ -1,11 +1,12 @@
 {
   "name": "MDB Protocol Decoder",
   "apiVersion": "1.0.0",
-  "author": "tymr",
-  "version": "0.0.1",
-  "description": " Multi-Drop Bus (MDB) protocol decoder for vending machine communication analysis",
+  "author": "ByTaymur",
+  "version": "9.0.0",
+  "description": "Professional Multi-Drop Bus (MDB) protocol decoder for vending machine communication analysis. Enhanced 9-bit to 2-byte conversion with detailed command parsing and data analysis.",
+  "url": "https://github.com/ByTaymur",
   "extensions": {
-    "MDB Protocol Decoder": {
+    "ByTaymur MDB Protocol Decoder v9": {
       "type": "HighLevelAnalyzer",
       "entryPoint": "HighLevelAnalyzer.Hla"
     }
