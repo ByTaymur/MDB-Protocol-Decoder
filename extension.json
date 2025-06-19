@@ -1,0 +1,13 @@
+{
+  "name": "MDB Protocol Decoder",
+  "apiVersion": "1.0.0",
+  "author": "tymr",
+  "version": "0.0.1",
+  "description": " Multi-Drop Bus (MDB) protocol decoder for vending machine communication analysis",
+  "extensions": {
+    "MDB Protocol Decoder": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "HighLevelAnalyzer.Hla"
+    }
+  }
+}
